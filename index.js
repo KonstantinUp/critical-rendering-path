@@ -1,3 +1,3 @@
  const  minify = require('html-minifier').minify;
 
-const result = minify('index.html',{removeAttributeQuotes: true});
+const result = minify('firstpage.html',{removeAttributeQuotes: true});
